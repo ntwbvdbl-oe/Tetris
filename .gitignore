@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+Tetris.board
+Tetris.game
